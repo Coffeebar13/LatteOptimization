@@ -44,6 +44,7 @@
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Automodpack](https://modrinth.com/mod/automodpack)
 - [Custom Hud](https://modrinth.com/mod/customhud)
+- [Indium](https://modrinth.com/mod/indium)
   
 **📦 Resource Packs:**
 - [Faithful x64](https://modrinth.com/resourcepack/faithful-64x)
