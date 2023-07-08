@@ -8,7 +8,7 @@ We only use new mods, resource packs and shaders and we want users to get only o
 
 ### Versions of modpack:
 + 1.20.1 ✔️
-+ 1.20   ❌
++ 1.20   ⭕
 + 1.19.4 ❌
 + 1.19.3 ❌
 
