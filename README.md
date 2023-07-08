@@ -1,6 +1,8 @@
 # ☕ Latte Optimization
 **Vanilla modpack aimed at optimization 🛠️**
 
+![Latte Optimization on Modrinth](banner.png)
+
 **🧰 Mods:**
 - [Debugify](https://modrinth.com/mod/debugify)
 - [More Culling](https://modrinth.com/mod/moreculling)
