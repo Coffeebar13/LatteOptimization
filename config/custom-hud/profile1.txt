@@ -1,0 +1,3 @@
+==BackgroundColor:0x00000000==
+==Section:TopLeft==
+&6☕ Latte Optimization {{fps >= 60, "&a", fps < 30, "&c", "&e"}}{fps}&f
