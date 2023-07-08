@@ -4,7 +4,7 @@
 ![Latte Optimization on Modrinth](banner.png)
 
 ### Why Latte Optimization?
-We want users to get only one pleasure from playing with our modpack! ☺️
+We only use new mods, resource packs and shaders and we want users to get only one pleasure from playing with our modpack! ☺️
 
 ### Versions of modpack:
 + 1.20.1 ✔️
