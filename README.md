@@ -3,6 +3,15 @@
 
 ![Latte Optimization on Modrinth](banner.png)
 
+### Why Latte Optimization?
+We want users to get only one pleasure from playing with our modpack! ☺️
+
+### Versions of modpack:
++ 1.20.1 ✔️
++ 1.20   ❌
++ 1.19.4 ❌
++ 1.19.3 ❌
+
 **🧰 Mods:**
 - [Debugify](https://modrinth.com/mod/debugify)
 - [More Culling](https://modrinth.com/mod/moreculling)
