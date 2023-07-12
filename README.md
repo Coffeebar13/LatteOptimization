@@ -1,10 +1,14 @@
 # ☕ Latte Optimization
 **Vanilla modpack aimed at optimization 🛠️**
 
-![Latte Optimization on Modrinth](banner.png)
+![Cool logo](https://cdn.modrinth.com/data/dDkewMhY/images/35a4bc5f0ed2e7ad414440625b994abecebb01fb.png)
 
 ### Why Latte Optimization?
-We only use new mods, resource packs and shaders and we want users to get only one pleasure from playing with our modpack! ☺️
+- My modpacks are highly compatible with different versions of Minecraft. This means you can use them on any computer, even a calculator!
+- This modpack is rigorously tested to meet quality standards. I am confident in the quality of my work and am ready to guarantee that your client will work without failures and bugs.
+- I regularly update my modpack so that it is always up to date and has the latest features.
+- If you have any questions or problems, I'll always be happy to help you solve them.
+- You can be sure that your client is safe, as all my modpacks are checked for vulnerabilities and bugs.
 
 ### Versions of modpack:
 + 1.20.1 ✔️
@@ -56,7 +60,14 @@ We only use new mods, resource packs and shaders and we want users to get only o
 - [Automodpack](https://modrinth.com/mod/automodpack)
 - [Custom Hud](https://modrinth.com/mod/customhud)
 - [Indium](https://modrinth.com/mod/indium)
-  
+- [Language Reload](https://modrinth.com/mod/language-reload)
+- [LazyDFU](https://modrinth.com/mod/lazydfu)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry)
+- [OptiGUI](https://modrinth.com/mod/optigui)
+- [Better Statistics Screen](https://modrinth.com/mod/better-stats)
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+- [CTRL+Q](https://modrinth.com/mod/ctrl-q)
+
 **📦 Resource Packs:**
 - [Faithful x64](https://modrinth.com/resourcepack/faithful-64x)
 - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
@@ -67,6 +78,6 @@ We only use new mods, resource packs and shaders and we want users to get only o
 - [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
 - [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 - [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla)
-- [Sidur's Enchanced Default](https://sildurs-shaders.github.io/downloads/)
+- [Vanilla+](https://modrinth.com/shader/vanilla-plus-shader)
 
 🥰 Thank you for downloading! <3
