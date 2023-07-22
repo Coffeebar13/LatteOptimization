@@ -1,0 +1,28 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Latte Optimization",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/Coffeebar13/LatteOptimization"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "contents": "Open modpack page on Github"
+        }
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
